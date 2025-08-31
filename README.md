@@ -58,9 +58,9 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |1200 12                  |1204 24                   |
- 1201 34                   1205 68
- 1202 12                   1206 00
- 1203 34                   1207 C4
+| |1201 34                | 1205 68                  |
+| |1202 12                | |1206 00                 |
+| 1203 34                 |1207 C4                   |
 #### Manual Calculations
 ![WhatsApp Image 2025-08-31 at 22 31 06_a8346ce0](https://github.com/user-attachments/assets/88564205-151d-44aa-8363-195ae8e77b65)
 
@@ -94,10 +94,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|1200 12                         |1204 00                         |
- 1201 34                          1205 00
- 1202 12                          1206 00
- 1203 34                          1207 C4
+|1200 12                  |      |1204 00            |
+|1201 34                  |        1205 00           |
+|1202 12                  |       1206 00            |
+|1203 34                  |        1207 C4           |
 #### Manual Calculations
 ![WhatsApp Image 2025-08-31 at 22 31 07_bdbb8c2c](https://github.com/user-attachments/assets/e098b4ae-8072-47c6-8515-d36a0336aa2c)
 
@@ -148,10 +148,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|1200 12                         |1204 44                          |
- 1201 34                          1205 51
- 1202 12                          1206 97
- 1203 34                          1207 0A
+|1200 12                  |      |1204 44            |
+|1201 34                  |        1205 51           |
+|1202 12                  |       1206 97            |
+|1203 34                  |       1207 0A            |
 #### Manual Calculations
 ![WhatsApp Image 2025-08-31 at 22 31 07_f92fd3d8](https://github.com/user-attachments/assets/4860485e-ac14-4b65-a9db-0f2216c3e98b)
 
@@ -198,10 +198,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|1200 12                        |1204 01                         |
- 1201 34                         1205 00
- 1202 12                         1206 00
- 1203 34                         1207 00
+|1200 12                  |    |1204 01              |
+|1201 34                  |      1205 00             |
+|1202 12                  |       1206 00            |
+|1203 34                  |      1207 00             |
 #### Manual Calculations
 ![WhatsApp Image 2025-08-31 at 22 31 08_f53eeda4](https://github.com/user-attachments/assets/1ad3bae2-817d-4a89-a2d8-b47bde1cb0c2)
 
