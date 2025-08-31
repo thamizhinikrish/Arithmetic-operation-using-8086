@@ -57,10 +57,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|1200 12                  |1204 24                   |
-| |1201 34                | 1205 68                  |
-| |1202 12                | |1206 00                 |
-| 1203 34                 |1207 C4                   |
+| 1200 12                 | 1204 24                  |
+| 1201 34                 | 1205 68                  |
+| 1202 12                 | 1206 00                  |
+| 1203 34                 | 1207 C4                  |
 #### Manual Calculations
 ![WhatsApp Image 2025-08-31 at 22 31 06_a8346ce0](https://github.com/user-attachments/assets/88564205-151d-44aa-8363-195ae8e77b65)
 
